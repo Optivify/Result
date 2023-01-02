@@ -11,7 +11,7 @@
 		<PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
 		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 		<Authors>Optivify</Authors>
-		<Version>1.0.2</Version>
+		<Version>1.0.3</Version>
 		<BaseOutputPath></BaseOutputPath>
 		<PackageTags>optivify result pattern asp net core</PackageTags>
 	</PropertyGroup>

@@ -10,7 +10,7 @@
 		<Description>A result object contains value and status of an operation which can be returned from services.</Description>
 		<PackageProjectUrl>https://github.com/Optivify/ServiceResult</PackageProjectUrl>
 		<Authors>Optivify</Authors>
-		<Version>1.0.2</Version>
+		<Version>1.0.3</Version>
 		<PackageTags>optivify service result pattern</PackageTags>
 	</PropertyGroup>
 
