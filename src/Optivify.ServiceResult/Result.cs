@@ -152,6 +152,11 @@ namespace Optivify.ServiceResult
 
         #region Success
 
+        public static Result<TValue> Success<TValue>(TValue value)
+        {
+            return new Result<TValue>(ResultStatus.Success, value);
+        }
+
         public static Result Success()
         {
             return new Result(ResultStatus.Success);
